@@ -16,9 +16,9 @@ id = 0
 # names related to ids: example ==> Marcelo: id=1,  etc
 names = [
     'None', 
-    'Nikita',
-    'Nikita2',
-    'Vitya'
+    'User1',
+    'User2',
+    'User3'
 ] 
 
 # Initialize and start realtime video capture
